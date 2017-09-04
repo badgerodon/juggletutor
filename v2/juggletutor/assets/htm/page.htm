@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Juggle Tutor</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+		<link href='http://fonts.googleapis.com/css?family=Acme' rel='stylesheet' type='text/css'>
+		<link href="/assets/css/zocial/zocial.css" type="text/css" rel="stylesheet">
+		<link rel="stylesheet" href="/assets/css/font-awesome.css">
+		<!--[if IE 7]>
+			<link rel="stylesheet" href="/assets/css/font-awesome-ie7.min.css">
+		<![endif]-->
+		<link href="/assets/css/normalize.css" type="text/css" rel="stylesheet">
+		<link href="/assets/css/buttons.css" type="text/css" rel="stylesheet">
+		<link href="/assets/css/main.css" type="text/css" rel="stylesheet">
+	</head>
+	<body>
+		<div id="page-header" style="display: none">
+			<div class="grid-container">
+				<!--<h1><a href="/">Juggle Tutor</a></h1>-->
+				<div id="page-nav" class="logged-out">
+					<a href="/">Home</a>
+					<a href="/login" class="logged-out">Login</a>
+					<a href="/profile" class="logged-in">Profile</a>
+					<a href="/families" class="logged-in">Tricks</a>
+					<a href="/admin" class="logged-in">Admin</a>
+					<a href="/logout" class="logged-in">Logout</a>
+				</div>
+			</div>
+		</div>
+		<div id="page-body" style="display: none">
+			<div class="grid-container"></div>
+		</div>
+		<script>
+Settings = {{.settings}};
+Constants = {{.constants}};
+Templates = {{.templates}};
+jt = {};
+		</script>
+		{{range .scripts}}
+<script src="{{.}}"></script>
+		{{end}}
+	</body>
+</html>

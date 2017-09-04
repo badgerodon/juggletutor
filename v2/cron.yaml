@@ -1,0 +1,4 @@
+cron:
+- description: get video statistics
+  url: /internal/tasks/get-video-statistics
+  schedule: every 12 hours

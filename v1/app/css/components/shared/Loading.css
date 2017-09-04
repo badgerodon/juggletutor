@@ -1,0 +1,7 @@
+.loading {
+  font-size: 36px;
+  text-align: center;
+  padding: 40px;
+}
+.loading > .fa-spinner {
+}

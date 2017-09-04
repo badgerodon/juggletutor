@@ -1,0 +1,286 @@
+html, body {
+	background: #EEE;
+	font-family: "Acme", sans-serif;
+	font-size: 16px;
+	height: 100%;
+}
+
+.grid-container {
+	margin: 0 auto;
+	max-width: 768px;
+}
+.grid-100, .grid-66, .grid-33, .grid-50 {
+	margin-bottom: 20px;
+}
+.grid-66 {
+	float: left;
+	width: 494px;
+	margin-right: 20px;
+}
+.grid-33 {
+	float: left;
+	width: 252px;
+}
+
+h1, h2, h3, h4, h5 {
+	margin: 0;
+}
+h1 {
+	font-size: 24px;
+}
+
+a, a:active, a:hover, a:visited {
+	color: #1e67cc;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+input[type=text] {
+	background: #FAFAFA;
+	border: 1px solid #CCC;
+	border-radius: 3px;
+	padding: 2px 4px;
+}
+
+.error {
+	color: #AA0000;
+}
+.help {
+	background: #F0F0F0;
+	margin: 20px 0;
+	border: 1px solid #CCC;
+	border-radius: 5px;
+	padding: 5px 10px;
+}
+.help .step {
+	background: white;
+	font-weight: bold;
+	font-size: 12px;
+	margin-right: 5px;
+	display: block;
+	float: left;
+	width: 18px;
+	height: 18px;
+	line-height: 18px;
+	text-align: center;
+	border: 1px solid #CCC;
+	border-radius: 20px;
+}
+
+#page-header {
+	background: #133F7D URL(/assets/img/header-bg.png) left bottom repeat-x;
+	color: white;
+	border-bottom: 2px solid #111;
+	height: 60px;
+	line-height: 60px;
+}
+	#page-header a {
+		color: white;
+	}
+	#page-header h1 {
+		float: left;
+	}
+
+#page-nav {
+	float: right;
+}
+	#page-nav a {
+		display: block;
+		float: left;
+		padding: 0 15px 0;
+		height: 60px;
+	}
+	#page-nav a.selected {
+		background: #0C274C;
+		border: 2px solid #111;
+		border-bottom: none;
+		border-top: none;
+	}
+	#page-nav a.logged-in,
+	#page-nav a.logged-out {
+		display: none;
+	}
+	#page-nav.logged-in a.logged-in,
+	#page-nav.logged-out a.logged-out {
+		display: block;
+	}
+
+#page-body {
+	padding: 30px 0;
+}
+#page-body .container {
+	background: white;
+	border: 2px solid #111;
+	border-radius: 10px;
+	box-shadow: 0px 3px 20px #999;
+	margin-bottom: 20px;
+}
+#page-body .body {
+	padding: 20px;
+}
+.nav {
+	border-radius: 10px 10px 0 0;
+	border-bottom: 1px solid #111;
+	background: #EEE;
+	height: 30px;
+	padding-top: 5px;
+	text-align: center;
+}
+	.nav a {
+		display: inline-block;
+		height: 30px;
+		line-height: 30px;
+		padding: 0 10px;
+	}
+	.nav a.selected {
+		border: 1px solid #111;
+		border-radius: 5px 5px 0 0;
+		border-bottom: none;
+		background: white;
+		color: black;
+	}
+.nav2-1 {
+	background: #DDD;
+}
+	.nav2-1 a.selected {
+		background: #EEE;
+	}
+.nav2-2 {
+	background: #F0F0F0;
+	border-radius: 0;
+}
+
+.trick .animation {
+	float: right;
+	width: 150px;
+	margin-bottom: 20px;
+}
+.trick h3 {
+	font-size: 13px;
+	padding: 5px;
+}
+	.trick h3 a {
+		display: inline-block;
+		padding: 2px 10px;
+		border-radius: 5px;
+		background: #F0F0F0;
+		border: 1px solid #CCC;
+		color: #999;
+	}
+	.trick h3 a.selected {
+		border: 1px solid #333;
+		color: black;
+	}
+
+#trick-submit #player {
+	float: right;
+}
+
+/* TRICK TABLE */
+#trick-table table {
+	width: 100%;
+}
+#trick-table td, #trick-table th {
+	border: 1px solid #EEE;
+	text-align: left;
+	padding: 1px 3px;
+}
+#trick-table td.count, #trick-table th.count {
+	width: 30px;
+	text-align: center;
+}
+#trick-table i {
+	font-size: 12px;
+}
+
+/* TRICK LEARN */
+#trick-learn ul {
+	margin: 0 0 0 20px;
+	padding: 0;
+}
+#trick-learn li {
+	margin: 10px 0;
+	padding: 0;
+}
+#trick-learn h4 {
+	clear: both;
+}
+#trick-learn img.left {
+	float: left;
+	margin: 0 10px 10px 0;
+}
+#trick-learn img.right {
+	float: right;
+	margin: 0 0 10px 10px;
+}
+
+
+/* TRICK SUBMIT */
+#trick-submit table {
+	margin: 20px 0;
+}
+#trick-submit th {
+	text-align: left;
+	font-size: 13px;
+	padding: 2px 5px;
+}
+
+/* FAMILY */
+.family-view .buttons {
+	float: right;
+}
+	.family-view .buttons .btn {
+		margin-left: 10px;
+	}
+
+/* DEMONSTATIONS */
+#demonstration-new th {
+	padding-right: 10px;
+	text-align: left;
+}
+#demonstration-new .buttons {
+	text-align: center;
+}
+#demonstration-new .buttons .btn:first-child {
+	margin-left: 0;
+}
+#demonstration-new .buttons .btn {
+	margin-left: 10px;
+}
+
+.family-list li {
+	font-size: 20px;
+}
+
+#family select.property {
+	width: 150px;
+}
+#family select.property-value {
+	width: 400px;
+}
+#family table {
+	margin: 10px 0;
+}
+#family td, #family th {
+	vertical-align: top;
+	line-height: 27px;
+	text-align: left;
+	padding: 5px;
+}
+#family .chzn-container {
+	vertical-align: top;
+}
+#family .option {
+	margin-bottom: 5px;
+}
+
+
+/* ADMIN */
+#admin-review .submission {
+	clear: both;
+}
+#admin-review iframe {
+	float: right;
+}

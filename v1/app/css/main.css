@@ -1,0 +1,161 @@
+@import url(//fonts.googleapis.com/css?family=Acme);
+@import url(//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css);
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  background: #336699;
+  color: #333;
+  font-family: 'Acme', sans-serif;
+  font-size: 16px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 36px;
+  margin: 0;
+}
+
+a, a:visited, a:active, a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.btn {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border: 1px solid #FFF;
+  border-radius: 4px;
+  background: transparent;
+  color: #FFF;
+}
+.btn:hover {
+  background: #FFF;
+  color: #333;
+  text-decoration: none;
+}
+.btn-social {
+  position: relative;
+  padding-left: 44px;
+  text-align: left;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.btn-social > :first-child {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 32px;
+  line-height: 38px;
+  text-align: center;
+  border-right: 1px solid rgba(0,0,0,0.2);
+  font-size: 22px;
+  vertical-align: middle;
+}
+.btn-google {
+  color: #fff;
+  background-color: #4285F4;
+  border-color: rgba(0,0,0,0.2);
+}
+.btn-google:hover {
+  color: #fff;
+  background-color: #3266D5;
+  border-color: rgba(0,0,0,0.2);
+}
+.btn-google-plus {
+  color: #fff;
+  background-color: #dd4b39;
+  border-color: rgba(0,0,0,0.2);
+}
+.btn-google-plus:hover {
+  color: #fff;
+  background-color: #c23321;
+  border-color: rgba(0,0,0,0.2);
+}
+
+.main {
+  background: #FFF;
+  position: relative;
+  box-sizing: border-box;
+  max-width: 678px;
+  margin: 0 auto;
+  min-height: 100%;
+  border: 2px solid #111;
+  border-top: none;
+  border-bottom: none;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.main > .buttons {
+  position: absolute;
+  bottom: 10px;
+  left: 20px;
+  right: 20px;
+}
+.buttons .btn {
+  display: block;
+  width: 100%;
+}
+
+
+
+.panel {
+  border: 2px solid #111;
+  border-left: none;
+  border-right: none;
+}
+.panel > .tabs {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  margin: 0;
+  padding: 0;
+}
+.panel > .tabs > li {
+  border: 2px solid #111;
+  border-top: none;
+  border-right: none;
+  list-style: none;
+  flex-grow: 1;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  line-height: 30px;
+  cursor: pointer;
+  font-size: 20px;
+  background: #E0E0E0;
+}
+.panel > .tabs > li:first-child {
+  border-left: none;
+}
+.panel > .tabs > li.selected {
+  background: #FFF;
+  border-bottom: none;
+  padding-bottom: 2px;
+}
+.panel-body {
+  padding: 20px;
+}
+.panel-body > iframe {
+  width: 100%;
+  border: 2px solid #111;
+  border-radius: 4px;
+}

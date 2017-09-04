@@ -1,0 +1,19 @@
+HOME = /Users/caleb
+NACL_SDK = $(HOME)/nacl_sdk
+PNACL_BIN = $(NACL_SDK)/pepper_49/toolchain/mac_pnacl/bin
+PNACL_INCLUDE = $(NACL_SDK)/pepper_49/include
+PNACL_LIB = $(NACL_SDK)/pepper_49/lib/pnacl/Release
+CXX = $(PNACL_BIN)/pnacl-clang++
+LINK = $(PNACL_BIN)/pnacl-ld
+FINALIZE = $(PNACL_BIN)/pnacl-finalize
+STRIP = $(PNACL_BIN)/pnacl-strip
+
+: foreach app/native/*.cpp |> $(CXX) -std=gnu++11 -o %o -c %f -O4 -I$(PNACL_INCLUDE) |> tmp/%B.o {objs}
+: {objs} |> $(CXX) %f -o %o -L$(PNACL_LIB) -lppapi_cpp -lppapi |> tmp/native.bc
+: tmp/native.bc |> $(FINALIZE) %f -o %o --compress |> static/ui.pexe
+
+# : foreach app/ui/components/*.js |> sh -c 'jsx %f > %o' |> tmp/ui/components/%f {ui_components}
+# : foreach app/ui/*.js |> sh -c 'jsx %f > %o' |> tmp/ui/%f {ui}
+# : vendor/js/react.js {ui_components} {ui} |> uglifyjs %f --output %o --source-map %o.map --source-map-url /%o.map --source-map-include-sources |> build/juggletutor.js | build/juggletutor.js.map
+
+# : app/css/*.css |> cleancss --skip-import --output %o %f |> build/juggletutor.css

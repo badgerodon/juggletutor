@@ -1,0 +1,35 @@
+[data-page="TutorialList"] ul {
+  list-style: none;
+  margin: 20px 0;
+  padding: 0;
+  border: 1px solid #111;
+  border-left: none;
+  border-right: none;
+}
+[data-page="TutorialList"] li {
+  list-style: none;
+  margin: 0;
+  font-size: 20px;
+  padding: 8px 16px;
+  border: 1px solid #111;
+  border-left: none;
+  border-right: none;
+  cursor: pointer;
+}
+[data-page="TutorialList"] li:hover {
+  color: #000;
+  background: #F3F3F3;
+}
+[data-page="TutorialList"] .info {
+  display: block;
+  float: right;
+  font-size: 16px;
+  line-height: 25px;
+}
+[data-page="TutorialList"] .info i {
+  margin-left: 8px;
+  opacity: 0.25;
+}
+[data-page="TutorialList"] .info i.completed {
+  opacity: 1;
+}

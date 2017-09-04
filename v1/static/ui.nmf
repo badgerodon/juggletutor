@@ -1,0 +1,11 @@
+{
+    "program": {
+        "portable": {
+            // Required
+            "pnacl-translate": {
+                // url is required
+                "url": "ui.pexe"
+            }
+        }
+    }
+}

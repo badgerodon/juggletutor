@@ -1,0 +1,1748 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="juggling.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="334.72247"
+     inkscape:cy="486.61701"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1320"
+     inkscape:window-height="858"
+     inkscape:window-x="1447"
+     inkscape:window-y="90"
+     inkscape:window-maximized="0" />
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;">
+      <path
+         id="path3806"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Send"
+       style="overflow:visible;">
+      <path
+         id="path3812"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.3) rotate(180) translate(-2.3,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3788"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3779"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Send"
+       style="overflow:visible;">
+      <path
+         id="path3794"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mstart"
+       style="overflow:visible">
+      <path
+         id="path3803"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path3785"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3782" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path3800" />
+    </marker>
+    <linearGradient
+       id="linearGradient3761">
+      <stop
+         id="stop3763"
+         offset="0"
+         style="stop-color:#0000ff;stop-opacity:1;" />
+      <stop
+         id="stop3765"
+         offset="1"
+         style="stop-color:#0000c8;stop-opacity:1;" />
+    </linearGradient>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Lendo"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lendo">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke-linejoin:round;stroke:#ff0000;stroke-width:0.62500000;fill:#ff0000;fill-rule:evenodd"
+         id="path4600" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path2985"
+       d="M 38.730388,84.038013 50.664035,193.35981 123.88789,192.91275 137.02892,83.819379 z"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.79111099,0,0,0.75956787,-178.09625,-123.56353)"
+       d="m 366.1803,210.14749 a 28.53681,39.14341 0 1 1 -57.07362,0 28.53681,39.14341 0 1 1 57.07362,0 z"
+       sodipodi:ry="39.14341"
+       sodipodi:rx="28.53681"
+       sodipodi:cy="210.14749"
+       sodipodi:cx="337.64349"
+       id="path2987"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.61253077;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3757"
+       d="m 137.61345,84.487577 10.4995,81.609653 -25.56668,7.38557"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.65901131,0,0,0.65901131,-118.49494,-116.50618)"
+       d="m 377.29197,438.44199 a 15.152288,15.909903 0 1 1 -30.30458,0 15.152288,15.909903 0 1 1 30.30458,0 z"
+       sodipodi:ry="15.909903"
+       sodipodi:rx="15.152288"
+       sodipodi:cy="438.44199"
+       sodipodi:cx="362.13968"
+       id="path3759"
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       sodipodi:type="arc"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.5,7.5;stroke-dashoffset:0;marker-start:none;marker-mid:none"
+       d="m 115.4699,158.25648 c 0,0 -16.90939,-147.166341 -49.20078,-146.767685 C 34.993887,11.874903 11.462932,174.6902 11.462932,174.6902"
+       id="path6184"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3757-5"
+       d="M 38.153042,84.2153 36.633559,165.42461 9.6212657,187.64485"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.27936208;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 128.04686,127.20483 c -2.57319,-6.65918 -5.14639,-13.31839 -7.71958,-19.97758 2.40754,1.01431 4.81505,2.02859 7.2226,3.0429 -3.71356,-3.60499 -7.42709,-7.20998 -11.14065,-10.81494 -0.78686,4.91421 -1.57371,9.82846 -2.36054,14.7427 1.3801,-2.09365 2.76024,-4.18727 4.14035,-6.28092 1.71774,7.00751 3.43547,14.015 5.1532,21.02249 1.5682,-0.57821 3.13642,-1.15644 4.70462,-1.73465 z"
+       id="path3029"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path2985-1"
+       d="m 280.86328,87.55746 11.93365,109.32179 73.22385,-0.44706 13.14103,-109.09337 z"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.79111099,0,0,0.75956787,64.03664,-120.04409)"
+       d="m 366.1803,210.14749 a 28.53681,39.14341 0 1 1 -57.07362,0 28.53681,39.14341 0 1 1 57.07362,0 z"
+       sodipodi:ry="39.14341"
+       sodipodi:rx="28.53681"
+       sodipodi:cy="210.14749"
+       sodipodi:cx="337.64349"
+       id="path2987-7"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.61253083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3757-4"
+       d="m 379.17182,86.857971 -0.17598,79.508699 30.43332,15.88557"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.5, 7.5;stroke-dashoffset:0;marker-start:none;marker-mid:none"
+       d="m 412.40356,176.97871 c 0,0 -27.16244,-160.954915 -59.45383,-160.556259 -31.27523,0.386108 -51.27064,145.877279 -51.27064,145.877279"
+       id="path6184-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3757-5-4"
+       d="m 280.68369,87.071827 -18.1807,79.397353 24.25296,11.96719"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.27936208;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 318.07936,165.06516 c 0.98886,-7.07022 1.97773,-14.14049 2.9666,-21.21073 1.61073,2.05685 3.22146,4.11365 4.83221,6.17049 -1.49251,-4.95569 -2.98501,-9.91136 -4.47753,-14.86703 -3.07675,3.91181 -6.15351,7.82366 -9.23024,11.73551 2.22389,-1.1586 4.4478,-2.31717 6.6717,-3.47577 -1.90576,6.95873 -3.81152,13.91743 -5.71728,20.87615 1.6515,0.25712 3.30304,0.51425 4.95454,0.77138 z"
+       id="path3029-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4032">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-8"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 a 15.152288,15.909903 0 1 1 -30.30458,0 15.152288,15.909903 0 1 1 30.30458,0 z"
+         transform="matrix(0.65901131,0,0,0.65901131,56.916491,-110.91358)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4028"
+         y="180.36218"
+         x="293.125"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         xml:space="preserve"><tspan
+           y="180.36218"
+           x="293.125"
+           id="tspan4030"
+           sodipodi:role="line">2</tspan></text>
+    </g>
+    <g
+       id="g4058">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 a 15.152288,15.909903 0 1 1 -30.30458,0 15.152288,15.909903 0 1 1 30.30458,0 z"
+         transform="matrix(0.65901131,0,0,0.65901131,70.63795,-272.98674)" />
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         x="306.65332"
+         y="19.067749"
+         id="text4028-4"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4030-5"
+           x="306.65332"
+           y="19.067749">1</tspan></text>
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.22082376;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 275.52077,156.93933 c -9.52075,-7.75052 -12.75346,-2.7506 -15.32242,-2.81588 -0.59354,-0.5441 -1.18713,-1.68207 -1.32653,-3.51873 -2.77149,1.99349 -3.48188,5.1747 -3.87785,8.63541 1.44451,-0.0836 7.36055,0.32195 7.68722,0.20344 -1.81554,-1.29875 -1.53404,-3.54694 -1.53404,-3.54694 7.57815,-0.70689 6.35302,-2.14738 12.32422,4.02766 0.43857,-0.44769 1.54095,-2.32767 2.0494,-2.98496 z"
+       id="path3029-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path2985-1-3"
+       d="m 28.349669,309.65169 11.93365,109.32179 73.223851,-0.44706 13.14103,-109.09337 z"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.79111099,0,0,0.75956787,-188.47697,102.05014)"
+       d="m 366.1803,210.14749 a 28.53681,39.14341 0 1 1 -57.07362,0 28.53681,39.14341 0 1 1 57.07362,0 z"
+       sodipodi:ry="39.14341"
+       sodipodi:rx="28.53681"
+       sodipodi:cy="210.14749"
+       sodipodi:cx="337.64349"
+       id="path2987-7-2"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.61253083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3757-4-2"
+       d="m 126.65821,308.9522 13.25905,78.80159 -4.21492,27.90638"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3757-5-4-6"
+       d="m 28.170079,309.16606 -8.281206,80.81156 9.403719,31.05908"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="translate(-267.36285,238.35769)"
+       id="g4032-5">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-8-7"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,56.916491,-110.91358)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4028-6"
+         y="180.36218"
+         x="293.125"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         xml:space="preserve"><tspan
+           y="180.36218"
+           x="293.125"
+           id="tspan4030-1"
+           sodipodi:role="line">2</tspan></text>
+    </g>
+    <g
+       transform="translate(-180.38872,404.52778)"
+       id="g4058-8">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-9"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,70.63795,-272.98674)" />
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         x="306.65332"
+         y="19.067749"
+         id="text4028-4-2"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4030-5-7"
+           x="306.65332"
+           y="19.067749">1</tspan></text>
+    </g>
+    <g
+       transform="translate(-165.6653,405.22097)"
+       id="g4058-8-5">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-9-4"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,70.63795,-272.98674)" />
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         x="306.65332"
+         y="19.067749"
+         id="text4028-4-2-3"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4030-5-7-1"
+           x="306.65332"
+           y="19.067749">3</tspan></text>
+    </g>
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path2985-1-3-6"
+       d="m 180.72736,306.99308 11.93365,109.32178 73.22385,-0.44706 13.14103,-109.09336 z"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.79111099,0,0,0.75956787,-36.099276,99.39152)"
+       d="m 366.1803,210.14749 a 28.53681,39.14341 0 1 1 -57.07362,0 28.53681,39.14341 0 1 1 57.07362,0 z"
+       sodipodi:ry="39.14341"
+       sodipodi:rx="28.53681"
+       sodipodi:cy="210.14749"
+       sodipodi:cx="337.64349"
+       id="path2987-7-2-1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.61253083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3757-4-2-38"
+       d="m 279.0359,306.29359 15.50905,78.55158 -19.96492,19.40638"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3757-5-4-6-9"
+       d="m 180.54777,306.50745 -8.28121,80.81155 9.40372,31.05908"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="translate(-114.98516,235.69908)"
+       id="g4032-5-3">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-8-7-4"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,56.916491,-110.91358)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4028-6-4"
+         y="180.36218"
+         x="293.125"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         xml:space="preserve"><tspan
+           y="180.36218"
+           x="293.125"
+           id="tspan4030-1-6"
+           sodipodi:role="line">2</tspan></text>
+    </g>
+    <g
+       transform="translate(-43.261026,389.61916)"
+       id="g4058-8-0">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-9-6"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,70.63795,-272.98674)" />
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         x="306.65332"
+         y="19.067749"
+         id="text4028-4-2-6"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4030-5-7-18"
+           x="306.65332"
+           y="19.067749">1</tspan></text>
+    </g>
+    <g
+       transform="translate(-28.537604,390.31235)"
+       id="g4058-8-5-4">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-9-4-9"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,70.63795,-272.98674)" />
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         x="306.65332"
+         y="19.067749"
+         id="text4028-4-2-3-6"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4030-5-7-1-3"
+           x="306.65332"
+           y="19.067749">3</tspan></text>
+    </g>
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path2985-1-3-6-7"
+       d="m 330.00717,303.25838 11.93365,109.32178 73.22385,-0.44706 13.14103,-109.09336 z"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.79111099,0,0,0.75956787,113.18053,95.65682)"
+       d="m 366.1803,210.14749 a 28.53681,39.14341 0 1 1 -57.07362,0 28.53681,39.14341 0 1 1 57.07362,0 z"
+       sodipodi:ry="39.14341"
+       sodipodi:rx="28.53681"
+       sodipodi:cy="210.14749"
+       sodipodi:cx="337.64349"
+       id="path2987-7-2-1-8"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.61253083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3757-4-2-38-8"
+       d="m 428.31571,302.55889 15.50905,78.55158 -28.96492,7.90638"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3757-5-4-6-9-2"
+       d="m 329.82758,302.77275 -8.28121,80.81155 9.40372,31.05908"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="translate(34.294645,231.96438)"
+       id="g4032-5-3-9">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-8-7-4-1"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,56.916491,-110.91358)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4028-6-4-3"
+         y="180.36218"
+         x="293.125"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         xml:space="preserve"><tspan
+           y="180.36218"
+           x="293.125"
+           id="tspan4030-1-6-5"
+           sodipodi:role="line">2</tspan></text>
+    </g>
+    <g
+       transform="translate(95.01878,339.38446)"
+       id="g4058-8-0-9">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-9-6-8"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,70.63795,-272.98674)" />
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         x="306.65332"
+         y="19.067749"
+         id="text4028-4-2-6-4"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4030-5-7-18-0"
+           x="306.65332"
+           y="19.067749">1</tspan></text>
+    </g>
+    <g
+       transform="translate(103.74221,373.07765)"
+       id="g4058-8-5-4-7">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-9-4-9-6"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,70.63795,-272.98674)" />
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         x="306.65332"
+         y="19.067749"
+         id="text4028-4-2-3-6-3"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4030-5-7-1-3-6"
+           x="306.65332"
+           y="19.067749">3</tspan></text>
+    </g>
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path2985-1-3-6-7-1"
+       d="m 488.23675,302.31707 11.93365,109.32178 73.22385,-0.44706 13.14102,-109.09336 z"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.79111099,0,0,0.75956787,271.41011,94.715515)"
+       d="m 366.1803,210.14749 a 28.53681,39.14341 0 1 1 -57.07362,0 28.53681,39.14341 0 1 1 57.07362,0 z"
+       sodipodi:ry="39.14341"
+       sodipodi:rx="28.53681"
+       sodipodi:cy="210.14749"
+       sodipodi:cx="337.64349"
+       id="path2987-7-2-1-8-5"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.61253083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3757-4-2-38-8-4"
+       d="m 586.54528,301.61758 8.43798,76.43026 -11.26642,21.64902"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3757-5-4-6-9-2-2"
+       d="m 488.05716,301.83144 -8.28121,80.81155 20.01032,16.20984"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="translate(205.25215,219.00225)"
+       id="g4032-5-3-9-0">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-8-7-4-1-9"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,56.916491,-110.91358)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4028-6-4-3-7"
+         y="180.36218"
+         x="293.125"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         xml:space="preserve"><tspan
+           y="180.36218"
+           x="293.125"
+           id="tspan4030-1-6-5-3"
+           sodipodi:role="line">2</tspan></text>
+    </g>
+    <g
+       transform="translate(236.9849,262.78272)"
+       id="g4058-8-0-9-7">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-9-6-8-2"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,70.63795,-272.98674)" />
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         x="306.65332"
+         y="19.067749"
+         id="text4028-4-2-6-4-6"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4030-5-7-18-0-0"
+           x="306.65332"
+           y="19.067749">1</tspan></text>
+    </g>
+    <g
+       transform="translate(275.72052,381.46477)"
+       id="g4058-8-5-4-7-1">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-9-4-9-6-6"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,70.63795,-272.98674)" />
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         x="306.65332"
+         y="19.067749"
+         id="text4028-4-2-3-6-3-5"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4030-5-7-1-3-6-7"
+           x="306.65332"
+           y="19.067749">3</tspan></text>
+    </g>
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path2985-1-3-6-7-1-5"
+       d="m 31.764474,540.16851 11.93365,109.32178 73.223846,-0.44706 13.14102,-109.09336 z"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.79111099,0,0,0.75956787,-185.06217,332.56695)"
+       d="m 366.1803,210.14749 a 28.53681,39.14341 0 1 1 -57.07362,0 28.53681,39.14341 0 1 1 57.07362,0 z"
+       sodipodi:ry="39.14341"
+       sodipodi:rx="28.53681"
+       sodipodi:cy="210.14749"
+       sodipodi:cx="337.64349"
+       id="path2987-7-2-1-8-5-4"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.61253083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3757-4-2-38-8-4-1"
+       d="m 130.073,539.46902 8.43798,76.43026 -23.76642,14.14902"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3757-5-4-6-9-2-2-2"
+       d="m 31.584884,539.68288 -6.866996,80.81155 27.081387,4.89613"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="translate(-232.83535,417.25571)"
+       id="g4032-5-3-9-0-0">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-8-7-4-1-9-0"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,56.916491,-110.91358)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4028-6-4-3-7-1"
+         y="180.36218"
+         x="293.125"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         xml:space="preserve"><tspan
+           y="180.36218"
+           x="293.125"
+           id="tspan4030-1-6-5-3-4"
+           sodipodi:role="line">2</tspan></text>
+    </g>
+    <g
+       transform="translate(-254.84272,479.42096)"
+       id="g4058-8-0-9-7-6">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-9-6-8-2-0"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,70.63795,-272.98674)" />
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         x="306.65332"
+         y="19.067749"
+         id="text4028-4-2-6-4-6-7"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4030-5-7-18-0-0-1"
+           x="306.65332"
+           y="19.067749">1</tspan></text>
+    </g>
+    <g
+       transform="translate(-196.75176,613.31621)"
+       id="g4058-8-5-4-7-1-7">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-9-4-9-6-6-7"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,70.63795,-272.98674)" />
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         x="306.65332"
+         y="19.067749"
+         id="text4028-4-2-3-6-3-5-7"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4030-5-7-1-3-6-7-7"
+           x="306.65332"
+           y="19.067749">3</tspan></text>
+    </g>
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path2985-1-3-6-7-1-5-3"
+       d="m 195.10615,538.7543 11.93365,109.32177 73.22384,-0.44706 13.14102,-109.09335 z"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.79111099,0,0,0.75956787,-21.720495,331.15273)"
+       d="m 366.1803,210.14749 a 28.53681,39.14341 0 1 1 -57.07362,0 28.53681,39.14341 0 1 1 57.07362,0 z"
+       sodipodi:ry="39.14341"
+       sodipodi:rx="28.53681"
+       sodipodi:cy="210.14749"
+       sodipodi:cx="337.64349"
+       id="path2987-7-2-1-8-5-4-3"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.61253083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3757-4-2-38-8-4-1-5"
+       d="m 293.41467,538.05481 8.43798,76.43025 -30.26642,8.64902"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3757-5-4-6-9-2-2-2-9"
+       d="m 194.92656,538.26867 1.61828,82.22575 -18.17344,16.20984"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="translate(-27.895696,315.53284)"
+       id="g4032-5-3-9-0-0-9">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-8-7-4-1-9-0-8"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,56.916491,-110.91358)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4028-6-4-3-7-1-1"
+         y="180.36218"
+         x="293.125"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         xml:space="preserve"><tspan
+           y="180.36218"
+           x="293.125"
+           id="tspan4030-1-6-5-3-4-8"
+           sodipodi:role="line">2</tspan></text>
+    </g>
+    <g
+       transform="translate(-126.85638,569.93063)"
+       id="g4058-8-0-9-7-6-2">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-9-6-8-2-0-6"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,70.63795,-272.98674)" />
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         x="306.65332"
+         y="19.067749"
+         id="text4028-4-2-6-4-6-7-6"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4030-5-7-18-0-0-1-0"
+           x="306.65332"
+           y="19.067749">1</tspan></text>
+    </g>
+    <g
+       transform="translate(-42.410085,578.40199)"
+       id="g4058-8-5-4-7-1-7-3">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-9-4-9-6-6-7-8"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,70.63795,-272.98674)" />
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         x="306.65332"
+         y="19.067749"
+         id="text4028-4-2-3-6-3-5-7-0"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4030-5-7-1-3-6-7-7-1"
+           x="306.65332"
+           y="19.067749">3</tspan></text>
+    </g>
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path2985-1-3-6-7-1-5-3-2"
+       d="m 346.71572,541.58274 11.93365,109.32177 73.22384,-0.44706 13.14102,-109.09335 z"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.79111099,0,0,0.75956787,129.88908,333.98117)"
+       d="m 366.1803,210.14749 a 28.53681,39.14341 0 1 1 -57.07362,0 28.53681,39.14341 0 1 1 57.07362,0 z"
+       sodipodi:ry="39.14341"
+       sodipodi:rx="28.53681"
+       sodipodi:cy="210.14749"
+       sodipodi:cx="337.64349"
+       id="path2987-7-2-1-8-5-4-3-5"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.61253083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3757-4-2-38-8-4-1-5-0"
+       d="m 445.02424,540.88325 8.43798,76.43025 20.73358,12.64902"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3757-5-4-6-9-2-2-2-9-9"
+       d="m 346.53613,541.09711 1.61828,82.22575 -18.17344,16.20984"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="translate(184.21387,449.36128)"
+       id="g4032-5-3-9-0-0-9-4">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-8-7-4-1-9-0-8-7"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,56.916491,-110.91358)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4028-6-4-3-7-1-1-8"
+         y="180.36218"
+         x="293.125"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         xml:space="preserve"><tspan
+           y="180.36218"
+           x="293.125"
+           id="tspan4030-1-6-5-3-4-8-3"
+           sodipodi:role="line">2</tspan></text>
+    </g>
+    <g
+       transform="translate(15.753186,617.75907)"
+       id="g4058-8-0-9-7-6-2-5">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-9-6-8-2-0-6-1"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,70.63795,-272.98674)" />
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         x="306.65332"
+         y="19.067749"
+         id="text4028-4-2-6-4-6-7-6-2"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4030-5-7-18-0-0-1-0-0"
+           x="306.65332"
+           y="19.067749">1</tspan></text>
+    </g>
+    <g
+       transform="translate(57.19949,477.23043)"
+       id="g4058-8-5-4-7-1-7-3-1">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-9-4-9-6-6-7-8-6"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,70.63795,-272.98674)" />
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         x="306.65332"
+         y="19.067749"
+         id="text4028-4-2-3-6-3-5-7-0-4"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4030-5-7-1-3-6-7-7-1-0"
+           x="306.65332"
+           y="19.067749">3</tspan></text>
+    </g>
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path2985-1-3-6-7-1-5-3-2-6"
+       d="m 542.80083,540.05748 11.93365,109.32177 73.22384,-0.44706 13.14102,-109.09335 z"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.79111099,0,0,0.75956787,325.97419,332.45591)"
+       d="m 366.1803,210.14749 a 28.53681,39.14341 0 1 1 -57.07362,0 28.53681,39.14341 0 1 1 57.07362,0 z"
+       sodipodi:ry="39.14341"
+       sodipodi:rx="28.53681"
+       sodipodi:cy="210.14749"
+       sodipodi:cx="337.64349"
+       id="path2987-7-2-1-8-5-4-3-5-1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.61253083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3757-4-2-38-8-4-1-5-0-8"
+       d="m 641.10935,539.35799 8.43798,76.43025 4.23358,20.14902"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3757-5-4-6-9-2-2-2-9-9-9"
+       d="m 542.62124,539.57185 1.61828,82.22575 -18.17344,16.20984"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="translate(359.29898,458.83602)"
+       id="g4032-5-3-9-0-0-9-4-8">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-8-7-4-1-9-0-8-7-4"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,56.916491,-110.91358)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4028-6-4-3-7-1-1-8-1"
+         y="180.36218"
+         x="293.125"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         xml:space="preserve"><tspan
+           y="180.36218"
+           x="293.125"
+           id="tspan4030-1-6-5-3-4-8-3-4"
+           sodipodi:role="line">2</tspan></text>
+    </g>
+    <g
+       transform="translate(211.8383,616.23381)"
+       id="g4058-8-0-9-7-6-2-5-3">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-9-6-8-2-0-6-1-9"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,70.63795,-272.98674)" />
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         x="306.65332"
+         y="19.067749"
+         id="text4028-4-2-6-4-6-7-6-2-8"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4030-5-7-18-0-0-1-0-0-8"
+           x="306.65332"
+           y="19.067749">1</tspan></text>
+    </g>
+    <g
+       transform="translate(224.2846,616.70517)"
+       id="g4058-8-5-4-7-1-7-3-1-0">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-9-4-9-6-6-7-8-6-8"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,70.63795,-272.98674)" />
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         x="306.65332"
+         y="19.067749"
+         id="text4028-4-2-3-6-3-5-7-0-4-7"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4030-5-7-1-3-6-7-7-1-0-7"
+           x="306.65332"
+           y="19.067749">3</tspan></text>
+    </g>
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path2985-1-3-6-7-1-5-8"
+       d="m 30.760214,742.40105 11.93365,109.32178 73.223846,-0.44706 13.14102,-109.09336 z"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.79111099,0,0,0.75956787,-186.06643,534.79949)"
+       d="m 366.1803,210.14749 a 28.53681,39.14341 0 1 1 -57.07362,0 28.53681,39.14341 0 1 1 57.07362,0 z"
+       sodipodi:ry="39.14341"
+       sodipodi:rx="28.53681"
+       sodipodi:cy="210.14749"
+       sodipodi:cx="337.64349"
+       id="path2987-7-2-1-8-5-4-38"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.61253083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3757-4-2-38-8-4-1-3"
+       d="m 129.06874,741.70156 8.43798,76.43026 -23.76642,14.14902"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3757-5-4-6-9-2-2-2-7"
+       d="m 30.580624,741.91542 0.911179,78.69023 -4.031312,15.50273"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="translate(-216.86904,562.91971)"
+       id="g4032-5-3-9-0-0-1">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-8-7-4-1-9-0-0"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,56.916491,-110.91358)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4028-6-4-3-7-1-7"
+         y="180.36218"
+         x="293.125"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         xml:space="preserve"><tspan
+           y="180.36218"
+           x="293.125"
+           id="tspan4030-1-6-5-3-4-3"
+           sodipodi:role="line">2</tspan></text>
+    </g>
+    <g
+       transform="translate(-290.49521,758.02103)"
+       id="g4058-8-0-9-7-6-4">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-9-6-8-2-0-9"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,70.63795,-272.98674)" />
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         x="306.65332"
+         y="19.067749"
+         id="text4028-4-2-6-4-6-7-65"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4030-5-7-18-0-0-1-1"
+           x="306.65332"
+           y="19.067749">1</tspan></text>
+    </g>
+    <g
+       transform="translate(-197.75602,815.54875)"
+       id="g4058-8-5-4-7-1-7-0">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-9-4-9-6-6-7-9"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,70.63795,-272.98674)" />
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         x="306.65332"
+         y="19.067749"
+         id="text4028-4-2-3-6-3-5-7-9"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4030-5-7-1-3-6-7-7-6"
+           x="306.65332"
+           y="19.067749">3</tspan></text>
+    </g>
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path2985-1-3-6-7-1-5-3-8"
+       d="m 196.10197,746.6437 11.93365,109.32177 73.22384,-0.44706 13.14102,-109.09335 z"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.79111099,0,0,0.75956787,-20.724669,539.04213)"
+       d="m 366.1803,210.14749 a 28.53681,39.14341 0 1 1 -57.07362,0 28.53681,39.14341 0 1 1 57.07362,0 z"
+       sodipodi:ry="39.14341"
+       sodipodi:rx="28.53681"
+       sodipodi:cy="210.14749"
+       sodipodi:cx="337.64349"
+       id="path2987-7-2-1-8-5-4-3-3"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.61253083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3757-4-2-38-8-4-1-5-4"
+       d="m 294.41049,745.94421 2.07402,75.72314 4.38181,20.66984"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3757-5-4-6-9-2-2-2-9-8"
+       d="m 195.92238,746.15807 1.61828,82.22575 -18.17344,16.20984"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="translate(3.5057126,567.26286)"
+       id="g4032-5-3-9-0-0-9-49">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-8-7-4-1-9-0-8-9"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,56.916491,-110.91358)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4028-6-4-3-7-1-1-2"
+         y="180.36218"
+         x="293.125"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         xml:space="preserve"><tspan
+           y="180.36218"
+           x="293.125"
+           id="tspan4030-1-6-5-3-4-8-5"
+           sodipodi:role="line">2</tspan></text>
+    </g>
+    <g
+       transform="translate(-134.34584,823.07486)"
+       id="g4058-8-0-9-7-6-2-53">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-9-6-8-2-0-6-3"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,70.63795,-272.98674)" />
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         x="306.65332"
+         y="19.067749"
+         id="text4028-4-2-6-4-6-7-6-3"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4030-5-7-18-0-0-1-0-7"
+           x="306.65332"
+           y="19.067749">1</tspan></text>
+    </g>
+    <g
+       transform="translate(-66.870103,743.86498)"
+       id="g4058-8-5-4-7-1-7-3-4">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-9-4-9-6-6-7-8-3"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,70.63795,-272.98674)" />
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         x="306.65332"
+         y="19.067749"
+         id="text4028-4-2-3-6-3-5-7-0-8"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4030-5-7-1-3-6-7-7-1-08"
+           x="306.65332"
+           y="19.067749">3</tspan></text>
+    </g>
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path2985-1-3-6-7-1-5-3-2-8"
+       d="m 359.98797,744.55748 11.93365,109.32177 73.22384,-0.44706 13.14102,-109.09335 z"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.79111099,0,0,0.75956787,143.16133,536.95591)"
+       d="m 366.1803,210.14749 a 28.53681,39.14341 0 1 1 -57.07362,0 28.53681,39.14341 0 1 1 57.07362,0 z"
+       sodipodi:ry="39.14341"
+       sodipodi:rx="28.53681"
+       sodipodi:cy="210.14749"
+       sodipodi:cx="337.64349"
+       id="path2987-7-2-1-8-5-4-3-5-0"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.61253083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3757-4-2-38-8-4-1-5-0-6"
+       d="m 458.29649,743.85799 8.43798,76.43025 20.73358,12.64902"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3757-5-4-6-9-2-2-2-9-9-8"
+       d="m 359.80838,744.07185 1.61828,82.22575 -18.17344,16.20984"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="translate(197.48612,652.33602)"
+       id="g4032-5-3-9-0-0-9-4-1">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-8-7-4-1-9-0-8-7-9"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,56.916491,-110.91358)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4028-6-4-3-7-1-1-8-8"
+         y="180.36218"
+         x="293.125"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         xml:space="preserve"><tspan
+           y="180.36218"
+           x="293.125"
+           id="tspan4030-1-6-5-3-4-8-3-9"
+           sodipodi:role="line">2</tspan></text>
+    </g>
+    <g
+       transform="translate(34.47174,763.20517)"
+       id="g4058-8-5-4-7-1-7-3-1-7">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-9-4-9-6-6-7-8-6-2"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,70.63795,-272.98674)" />
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         x="306.65332"
+         y="19.067749"
+         id="text4028-4-2-3-6-3-5-7-0-4-2"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4030-5-7-1-3-6-7-7-1-0-8"
+           x="306.65332"
+           y="19.067749">3</tspan></text>
+    </g>
+    <g
+       transform="translate(34.707906,821.41069)"
+       id="g4058-8-0-9-7-6-2-5-2">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\dropbox\projects\badgerodon\juggle-tutor\scratch\path3029.png"
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3759-0-9-6-8-2-0-6-1-8"
+         sodipodi:cx="362.13968"
+         sodipodi:cy="438.44199"
+         sodipodi:rx="15.152288"
+         sodipodi:ry="15.909903"
+         d="m 377.29197,438.44199 c 0,8.78679 -6.78391,15.9099 -15.15229,15.9099 -8.36838,0 -15.15229,-7.12311 -15.15229,-15.9099 0,-8.7868 6.78391,-15.90991 15.15229,-15.90991 8.36838,0 15.15229,7.12311 15.15229,15.90991 z"
+         transform="matrix(0.65901131,0,0,0.65901131,70.63795,-272.98674)" />
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+         x="306.65332"
+         y="19.067749"
+         id="text4028-4-2-6-4-6-7-6-2-9"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4030-5-7-18-0-0-1-0-0-0"
+           x="306.65332"
+           y="19.067749">1</tspan></text>
+    </g>
+  </g>
+</svg>

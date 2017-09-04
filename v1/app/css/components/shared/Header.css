@@ -1,0 +1,15 @@
+.header {
+  /* background: #094584;*/
+  background: #111;
+  padding: 8px 16px;
+  color: white;
+  margin-bottom: 20px;
+  margin-top: -20px;
+}
+.header .actions {
+  float: right;
+}
+.header .actions i {
+  cursor: pointer;
+  margin-left: 8px;
+}
